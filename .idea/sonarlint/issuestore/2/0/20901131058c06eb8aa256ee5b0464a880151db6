@@ -1,0 +1,7 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ìâ8¥Ù³ÖÓ/
+B
+java:S1481'"&Remove this unused "i" local variable.(‘ëçE8Üş•ÖÓ/
+=	java:S108'")Either remove or fill this block of code.(‘ëçE
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğÕ‰õ
